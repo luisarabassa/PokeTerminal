@@ -19,7 +19,9 @@ Um jogo Pokémon que roda via terminal, desenvolvido como projeto acadêmico par
 - Aumento de nível
 
 ## 🛠️ Tecnologias Utilizadas
-- Linguagem: Python
+- Linguagem:
+  - Python
+  
 - Bibliotecas:
   - random
   - copy
