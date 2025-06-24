@@ -35,5 +35,4 @@ Um jogo Pokémon que roda via terminal, desenvolvido como projeto acadêmico par
 ## 🎮 Como jogar:
 1. Depois de iniciar o jogo com o comando `python main.py` siga as instruções do terminal
 2. Fique atento as opções indicadas para navegar pelo jogo
-3. Capture seus Pokémons, explore e aumente seu nível
-4. Divirta-se!
+3. Capture seus Pokémons, explore e aumente seu nível!
