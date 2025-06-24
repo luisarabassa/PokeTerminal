@@ -20,15 +20,20 @@ Um jogo Pokémon que roda via terminal, desenvolvido como projeto acadêmico par
 
 ## 🛠️ Tecnologias Utilizadas
 - Linguagem:
-  - Python
-  
-- Bibliotecas:
-  - random
-  - copy
-  - time
-  - json
-  - sys
-  - os
+  - Python v(3.15.5)
 
 ## 📦 Instalação 
 1. Clone o repositório:
+  `git clone https://github.com/luisarabassa/PokeTerminal.git`
+
+2. Navegue até o diretório do projeto:
+   `cd src`
+
+3. Execute o jogo:
+   `python main.py`
+
+## 🎮 Como jogar:
+1. Depois de iniciar o jogo com o comando `python main.py` siga as instruções do terminal
+2. Fique atento as opções indicadas para navegar pelo jogo
+3. Capture seus Pokémons, explore e aumente seu nível
+4. Divirta-se!
